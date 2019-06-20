@@ -1,5 +1,7 @@
 # The THING game
-A single player terminal based game I created back in its day, based on "The Thing" movie saga. Released on both English and Spanish, though the Spanish version is slightly newer and has a few extra bells and whistles added to it. DISCLAIMER: I do not own anything related to "The Thing" (TM), and this game is something I did for fun, and in no way I intend to infringe on the copyright of this amazing franchise.
+A single player terminal based game I created back in its day, based on "The Thing" movie saga. Released on both English and Spanish, though the Spanish version is slightly newer and has a few extra bells and whistles added to it. The game is programmed with Python.
+
+**DISCLAIMER:** I do not own anything related to "The Thing" (TM), and this game is something I did for fun, and in no way I intend to infringe on the copyright of this amazing franchise.
 
 ### How it works
 
